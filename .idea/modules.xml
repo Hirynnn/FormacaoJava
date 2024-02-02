@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/FormacaoJava.iml" filepath="$PROJECT_DIR$/.idea/FormacaoJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/estrutura-de-dados.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/estrutura-de-dados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/fila/fila.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/fila/fila.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" filepath="$PROJECT_DIR$/sistema-smart-tv/sistema-smart-tv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tipo-variaveis/tipo-variaveis.iml" filepath="$PROJECT_DIR$/tipo-variaveis/tipo-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/validador-cpf/validador-cpf.iml" filepath="$PROJECT_DIR$/validador-cpf/validador-cpf.iml" />
+    </modules>
+  </component>
+</project>
