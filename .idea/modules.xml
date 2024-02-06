@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/FormacaoJava.iml" filepath="$PROJECT_DIR$/.idea/FormacaoJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/lista-encadeada/arvore-binaria/arvore-binaria.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/lista-encadeada/arvore-binaria/arvore-binaria.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" filepath="$PROJECT_DIR$/controle-fluxo/controle-fluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/estrutura-de-dados.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/estrutura-de-dados.iml" />
       <module fileurl="file://$PROJECT_DIR$/estrutura-de-dados/fila/fila.iml" filepath="$PROJECT_DIR$/estrutura-de-dados/fila/fila.iml" />
