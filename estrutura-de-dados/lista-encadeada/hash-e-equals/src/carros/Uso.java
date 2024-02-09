@@ -19,7 +19,7 @@ public class Uso {
         //// aprendendo map
 
         Map<String, String> aluno = new HashMap<>();
-
+    
         aluno.put("Nome", "Paulo");
         aluno.put("Idade", "29");
         aluno.put("Ano", "4 ano");
@@ -39,9 +39,23 @@ public class Uso {
 
         listAlunos.add(aluno2);
 
-        System.out.println(listAlunos);
 
-        System.out.println(aluno.containsKey("Nome"));
+        List<Double> notas = new ArrayList();
+        notas.add(2d);
+        notas.add(4d);
+        notas.add(5.3);
+        notas.add(6d);
+        notas.add(2d);
+        Double soma = 0d;
+        for(Double nota: notas){
+            soma+=nota;
+        }
+
+        System.out.println(soma);
+
+       // System.out.println(listAlunos);
+
+        // System.out.println(aluno.containsKey("Nome"));
 
 
 
